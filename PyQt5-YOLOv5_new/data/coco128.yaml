@@ -1,0 +1,10 @@
+path: F:\dataset+code\road_hurt\dataset
+train: train
+val: val
+test: test
+# train: /home/liub/rice_yolov5/train
+# val: /home/liub/rice_yolov5/valid
+# test: /home/liub/rice_yolov5/test
+
+nc: 8
+names: ['x_crack', 'xc_crack', 'y_crack', 'yc_crack', 'small_crack', 'defraud', 'white_line_blur', 'Cross_walk_blur']

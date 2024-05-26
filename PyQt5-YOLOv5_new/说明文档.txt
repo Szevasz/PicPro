@@ -1,0 +1,7 @@
+pt文件夹存放的是model训练权重。best.pt, last.pt是水稻病害检测权重。
+
+main.py程序时gui程序（可以选择图片和摄像头）
+
+train.py训练脚本
+
+val.py测试脚本
